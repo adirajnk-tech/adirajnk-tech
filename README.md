@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=600&height=100&repeat=false&lines=Hi,+I'm+Adiraj+Naik;Engineering+undergraduate+student+at+SJCE+JSSSTU" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=600&height=100&repeat=false&multiline=true&lines=Hi,+I'm+Adiraj+Naik;Engineering+undergraduate+at+SJCE+JSSSTU" alt="Typing SVG" />
 
 ### 🏆 GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adirajnk-tech&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
