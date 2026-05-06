@@ -100,7 +100,7 @@
 ### 📊 Stats and Activity
 
 
-![Adiraj's Stats](https://github-readme-stats.vercel.app/api?username=adirajnk-tech&show_icons=true&theme=tokyonight)ht)
+![Adiraj's Stats](https://github-readme-stats.vercel.app/api?username=adirajnk-tech&show_icons=true&theme=tokyonight)
 ### 🐍 Contribution Snake
 
 
