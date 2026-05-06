@@ -1,34 +1,51 @@
 <div align="center">
 <!-- HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-<!-- TYPING NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=6E40C9&center=true&vCenter=true&width=500&lines=Adiraj+Naik" alt="Name" />
+  <div align="center">
+
+# Hi there! 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=600&height=100&repeat=false&multiline=true&lines=Hi,+I'm+Adiraj+Naik;Engineering+undergraduate+@SJCE+JSSSTU" alt="Typing SVG" />
+
 <!-- ROLE TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=2000&color=9B72CF&center=true&vCenter=true&width=600&lines=Engineering+Student+%40+SJCE+JSSSTU;C+%2F+C%2B%2B+Developer;Always+learning.+Always+building.;Stay+curious+%E2%80%94+stay+hungry." alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=2000&color=9B72CF&center=true&vCenter=true&width=600&lines=C+%2F+C%2B%2B+Developer;Always+learning.+Always+building." alt="Role" />
 <br/>
 
 
 
-GitHub Stats <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adirajnk-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=9B72CF&text_color=C9D1D9&border_radius=10&rank_icon=github" height="155" alt="GitHub Stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adirajnk-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&border_radius=10&langs_count=6" height="155" alt="Top Languages"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adirajnk-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=9B72CF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&border_radius=10" alt="Streak Stats"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=adirajnk-tech&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/> </div>
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=adirajnk-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=9B72CF&text_color=C9D1D9&border_radius=10&rank_icon=github" height="155" alt="GitHub Stats"/> 
+&nbsp; 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adirajnk-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&border_radius=10&langs_count=6" height="155" alt="Top Languages"/> 
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adirajnk-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=9B72CF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&border_radius=10" alt="Streak Stats"/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=adirajnk-tech&theme=radical&no-frame=false&margin-w=15&column=7" alt="Trophies"/>
+
+<br/>
 
 <!-- ── 1. ANIMATED TYPING NAME (like Ishan Dutta's) ── -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=80&lines=Hey+there!+I'm+Adiraj+Naik+👋;Engineering+Student+%40+SJCE+JSSSTU;C+%2F+C%2B%2B+Developer;Always+Building+Something+New 🚀" alt="Typing SVG" />
 </p>
+
+
+
 <!-- ── 2. SUBTITLE TYPING (second line, slower) ── -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=F472B6&center=true&vCenter=true&width=600&height=50&lines=🎓+Engineering+Undergrad+%40+SJCE+JSSSTU;💡+Always+learning+something+new;🔭+Exploring+ideas%2C+one+step+at+a+time;✨+Stay+curious%2C+stay+hungry" alt="Subtitle Typing SVG" />
 </p>
 
 
-
 <!-- ── 5. ANIMATED NAME + TAGLINES ── -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=A855F7&center=true&vCenter=true&width=500&height=60&lines=Adiraj+Naik" alt="Name" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2500&color=94A3B8&center=true&vCenter=true&width=600&height=40&lines=Always+learning+something+new+💡;Exploring+ideas%2C+one+step+at+a+time+🔭;Stay+curious+—+stay+hungry+🚀;Code+today%2C+build+tomorrow+⚡" alt="Taglines" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=2000&color=9B72CF&center=true&vCenter=true&width=600&lines=Always+learning.+Always+building.;Stay+curious+%E2%80%94+stay+hungry." alt="Role" />
+<br/>
+
 
 <!-- ── 6. SOCIAL LINKS (icon badges — click to go to profile) ── -->
 <!-- 🔁 REPLACE the URLs below with YOUR actual profile links -->
@@ -93,10 +110,10 @@ GitHub Stats <div align="center"> <img src="https://github-readme-stats.vercel.a
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+![Profile Views](https://komarev.com/ghpvc/?username=adirajnk-tech&color=39FF14&style=flat-square&label=PROFILE+VIEWS)
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=adirajnk-tech&style=flat-square&color=6E40C9&label=Profile+Views" alt="Profile Views"/>
-</div>-->
+</div>
+
 <!-- ── FOOTER ── -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
